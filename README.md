@@ -8,7 +8,7 @@
 ## 1. Face detection
 We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
 
-## 2. Dataset
+## 2. Datasets
 - [300W, AFLW2000](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)  
 - [BIWI](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#)  
 - [SASE](https://icv.tuit.ut.ee/databases/)
@@ -17,7 +17,7 @@ To train on 300W and test on AFLW2000 with bounding box margin = 0.5
 `python pose.py 0.5`
 
 
-## Reference {#reference}
+## Reference
 
 
 If you find the work useful in your research please consider citing:  
