@@ -5,25 +5,11 @@
 3. [How to use our model](#train)
 4. [Reference](#reference)
 
-We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
-We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
-We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
+
+## Face detection
 We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
 
-## 1. Face detection
-We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
-
-
-We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
-
-
-We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
-
-We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
-
-We used the face detect method proposed by Chen et al. We will give the bounding box in the list. You can also use [Microsoft face API](https://azure.microsoft.com/en-us/services/cognitive-services/face/) to get the same result if you want to use our method in your own dataset.
-
-## 2. Datasets
+## Datasets
 - [300W, AFLW2000](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)  
 - [BIWI](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#)  
 - [SASE](https://icv.tuit.ut.ee/databases/)
