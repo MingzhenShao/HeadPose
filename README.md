@@ -8,8 +8,32 @@
 ## 1. Dataset {#datasets}
 - [300W, AFLW2000](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)  
 - [BIWI](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#)  
-- [SASE]()
+- [SASE](https://icv.tuit.ut.ee/databases/)
+## Train
+
+## 
+
 ## Reference {#reference}
+
+
+If you find the work useful in your research please consider citing:  
+
+```
+@article{,
+  author    = {Mingzhen Shao and
+               Zhun Sun and
+               Mete Ozay and Takayuki Okatani},
+  title     = {Improving Head Pose Estimation with a Combined Loss and Bounding Box Margin Adjustment},
+  journal   = {},
+  volume    = {},
+  year      = {2019},
+  url       = {},
+  archivePrefix = {},
+  eprint    = {},
+  timestamp = {},
+  biburl    = {},
+  bibsource = {}
+```
 
 
 
