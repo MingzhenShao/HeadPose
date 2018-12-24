@@ -2,7 +2,7 @@
 
 1. [Face detection](#detection)
 2. [Datasets](#datasets)
-3. []
+3. [How to use our model](#model)
 4. [Reference](#reference)
 
 ## 1. Face detection
@@ -12,8 +12,8 @@ We used the face detect method proposed by Chen et al. We will give the bounding
 - [300W, AFLW2000](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)  
 - [BIWI](https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_forest.html#)  
 - [SASE](https://icv.tuit.ut.ee/databases/)
-## Train
-To train on 300W and test on AFLW2000 with bounding box margin = 0.5
+## Train{#model}
+To train on 300W and test on AFLW2000 with bounding box margin = 0.5  
 `python pose.py 0.5`
 
 ## 
