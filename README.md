@@ -24,19 +24,10 @@ To train on 300W and test on AFLW2000 with bounding box margin = 0.5
 If you find the work useful in your research please consider citing:  
 
 ```
-@article{,
-  author    = {Mingzhen Shao and
-               Zhun Sun and
-               Mete Ozay and Takayuki Okatani},
+@article{shao2019FG
+  author    = {Mingzhen Shao and Zhun Sun and Mete Ozay and Takayuki Okatani},
   title     = {Improving Head Pose Estimation with a Combined Loss and Bounding Box Margin Adjustment},
-  journal   = {},
-  volume    = {},
-  year      = {2019},
-  url       = {},
-  archivePrefix = {},
-  eprint    = {},
-  timestamp = {},
-  biburl    = {},
-  bibsource = {}
+  booktitle = {The 14th IEEE International Conference on Automatic Face and Gesture Recognition (FG2019)}
+  year      = {2019}
 ```
 
