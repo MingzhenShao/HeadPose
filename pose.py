@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import logging
 
 
-os.environ["CUDA_VISIBLE_DEVICES"] = sys.argv[2]
+# os.environ["CUDA_VISIBLE_DEVICES"] = sys.argv[2]
 border_width = sys.argv[1]
 #branch = sys.argv[3]		#Baseline / Margin
 #branch = 'Baseline'
